@@ -27,7 +27,7 @@
                                     <thead>
                                         <tr>
                                             <th>#</th>
-                                            <th>Tanggal Kegiatan</th>
+                                            <th>Tanggal Kegiatann</th>
                                             <th>Jam Kerja Efektif</th>
                                             <th>Jumlah Kegiatan</th>
                                             <th>Status</th>
