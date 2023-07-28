@@ -15,7 +15,7 @@
                 <div class="col-lg-12">
                     <div class="card">
                         <div class="card-header">
-                            <h4 class="card-title">Kegiatan Harian</h4>
+                            <h4 class="card-title">Kegiatan Hariann</h4>
                             <a href="{{route('kegiatan.create')}}" type="button" class="btn btn-rounded btn-info">
                                 <span class="btn-icon-start text-info"><i class="fa fa-plus color-info"></i></span>
                                 Tambah Data
